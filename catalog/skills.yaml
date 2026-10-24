@@ -1,0 +1,1653 @@
+# Product Manager Toolkit catalog
+# Stable IDs and paths for each standalone Skill.
+skills:
+  - id: metrics-analytics-designer
+    title: "Metrics & Analytics Designer"
+    category: analytics
+    category_title: "Analytics & Metrics"
+    path: skills/analytics/metrics-analytics-designer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.1.0"
+    status: active
+    portability: portable
+    review_status: content-reviewed
+  - id: ux-reviewer
+    title: "UX Reviewer"
+    category: design
+    category_title: "UX & Design"
+    path: skills/design/ux-reviewer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.1.0"
+    status: active
+    portability: portable
+    review_status: content-reviewed
+  - id: problem-definition-expert
+    title: "Problem Definition Expert"
+    category: discovery
+    category_title: "Discovery"
+    path: skills/discovery/problem-definition-expert/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.1.0"
+    status: active
+    portability: portable
+    review_status: content-reviewed
+  - id: ab-testing-expert
+    title: "A/B Testing Expert"
+    category: experimentation
+    category_title: "Experimentation"
+    path: skills/experimentation/ab-testing-expert/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.1.0"
+    status: active
+    portability: portable
+    review_status: content-reviewed
+  - id: monetization-strategist
+    title: "Monetization Strategist"
+    category: growth
+    category_title: "Growth & Monetization"
+    path: skills/growth/monetization-strategist/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.1.0"
+    status: active
+    portability: portable
+    review_status: content-reviewed
+  - id: gtm-planner
+    title: "GTM Planner"
+    category: launch
+    category_title: "Launch & GTM"
+    path: skills/launch/gtm-planner/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.1.0"
+    status: active
+    portability: portable
+    review_status: content-reviewed
+  - id: risk-and-edge-case-analyzer
+    title: "Risk & Edge Case Analyzer"
+    category: quality
+    category_title: "Quality & Risk"
+    path: skills/quality/risk-and-edge-case-analyzer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.1.0"
+    status: active
+    portability: portable
+    review_status: content-reviewed
+  - id: acceptance-criteria-generator
+    title: "Acceptance Criteria Generator"
+    category: requirements
+    category_title: "Requirements & Acceptance Criteria"
+    path: skills/requirements/acceptance-criteria-generator/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: business-rule-builder
+    title: "Business Rules & Decision Table Builder"
+    category: requirements
+    category_title: "Requirements & Acceptance Criteria"
+    path: skills/requirements/business-rule-builder/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: change-impact-analyzer
+    title: "Requirements Change Impact Analyzer"
+    category: requirements
+    category_title: "Requirements & Acceptance Criteria"
+    path: skills/requirements/change-impact-analyzer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: clarification-builder
+    title: "Clarification & Decision Builder"
+    category: requirements
+    category_title: "Requirements & Acceptance Criteria"
+    path: skills/requirements/clarification-builder/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: coverage-gap-analyzer
+    title: "Acceptance Criteria Coverage Gap Analyzer"
+    category: requirements
+    category_title: "Requirements & Acceptance Criteria"
+    path: skills/requirements/coverage-gap-analyzer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: edge-case-generator
+    title: "Edge Case & Negative Path Generator"
+    category: requirements
+    category_title: "Requirements & Acceptance Criteria"
+    path: skills/requirements/edge-case-generator/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: gherkin-quality-reviewer
+    title: "Gherkin Quality Reviewer"
+    category: requirements
+    category_title: "Requirements & Acceptance Criteria"
+    path: skills/requirements/gherkin-quality-reviewer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: non-functional-reviewer
+    title: "Non-Functional Acceptance Criteria Reviewer"
+    category: requirements
+    category_title: "Requirements & Acceptance Criteria"
+    path: skills/requirements/non-functional-reviewer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: prd-analyzer
+    title: "PRD Analyzer"
+    category: requirements
+    category_title: "Requirements & Acceptance Criteria"
+    path: skills/requirements/prd-analyzer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: prd-generator
+    title: "PRD Generator"
+    category: requirements
+    category_title: "Requirements & Acceptance Criteria"
+    path: skills/requirements/prd-generator/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.1.0"
+    status: active
+    portability: portable
+    review_status: content-reviewed
+  - id: prd-intake
+    title: "PRD Intake & Normalizer"
+    category: requirements
+    category_title: "Requirements & Acceptance Criteria"
+    path: skills/requirements/prd-intake/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: prd-to-gherkin
+    title: "PRD-to-Gherkin Converter"
+    category: requirements
+    category_title: "Requirements & Acceptance Criteria"
+    path: skills/requirements/prd-to-gherkin/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: qa-handoff
+    title: "QA Handoff & Automation Readiness Reviewer"
+    category: requirements
+    category_title: "Requirements & Acceptance Criteria"
+    path: skills/requirements/qa-handoff/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: requirement-decomposer
+    title: "Requirement Decomposer"
+    category: requirements
+    category_title: "Requirements & Acceptance Criteria"
+    path: skills/requirements/requirement-decomposer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: scenario-coverage-planner
+    title: "Scenario Coverage Planner"
+    category: requirements
+    category_title: "Requirements & Acceptance Criteria"
+    path: skills/requirements/scenario-coverage-planner/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: test-data-builder
+    title: "Test Data & Boundary Value Builder"
+    category: requirements
+    category_title: "Requirements & Acceptance Criteria"
+    path: skills/requirements/test-data-builder/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: traceability-matrix
+    title: "Requirements Traceability Matrix Builder"
+    category: requirements
+    category_title: "Requirements & Acceptance Criteria"
+    path: skills/requirements/traceability-matrix/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: user-story-generator
+    title: "User Story Generator"
+    category: requirements
+    category_title: "Requirements & Acceptance Criteria"
+    path: skills/requirements/user-story-generator/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: workflow-orchestrator
+    title: "Acceptance Criteria Workflow Orchestrator"
+    category: requirements
+    category_title: "Requirements & Acceptance Criteria"
+    path: skills/requirements/workflow-orchestrator/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: competitive-analysis-expert
+    title: "Competitive Analysis Expert"
+    category: strategy
+    category_title: "Strategy"
+    path: skills/strategy/competitive-analysis-expert/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.1.0"
+    status: active
+    portability: portable
+    review_status: content-reviewed
+  - id: product-strategy-builder
+    title: "Product Strategy Builder"
+    category: strategy
+    category_title: "Strategy"
+    path: skills/strategy/product-strategy-builder/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.1.0"
+    status: active
+    portability: portable
+    review_status: content-reviewed
+  - id: customer-interview-planner
+    title: "Customer Interview Planner"
+    category: discovery
+    category_title: "Product Discovery & Customer Research"
+    path: skills/discovery/customer-interview-planner/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: interview-question-builder
+    title: "Interview Question Builder"
+    category: discovery
+    category_title: "Product Discovery & Customer Research"
+    path: skills/discovery/interview-question-builder/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: interview-synthesis
+    title: "Interview Synthesis"
+    category: discovery
+    category_title: "Product Discovery & Customer Research"
+    path: skills/discovery/interview-synthesis/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: customer-feedback-analyzer
+    title: "Customer Feedback Analyzer"
+    category: discovery
+    category_title: "Product Discovery & Customer Research"
+    path: skills/discovery/customer-feedback-analyzer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: jobs-to-be-done-analyzer
+    title: "Jobs-to-be-Done Analyzer"
+    category: discovery
+    category_title: "Product Discovery & Customer Research"
+    path: skills/discovery/jobs-to-be-done-analyzer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: persona-builder
+    title: "Persona Builder"
+    category: discovery
+    category_title: "Product Discovery & Customer Research"
+    path: skills/discovery/persona-builder/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: customer-journey-mapper
+    title: "Customer Journey Mapper"
+    category: discovery
+    category_title: "Product Discovery & Customer Research"
+    path: skills/discovery/customer-journey-mapper/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: opportunity-solution-tree-builder
+    title: "Opportunity Solution Tree Builder"
+    category: discovery
+    category_title: "Product Discovery & Customer Research"
+    path: skills/discovery/opportunity-solution-tree-builder/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: problem-validation-planner
+    title: "Problem Validation Planner"
+    category: discovery
+    category_title: "Product Discovery & Customer Research"
+    path: skills/discovery/problem-validation-planner/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: assumption-mapper
+    title: "Assumption Mapper"
+    category: discovery
+    category_title: "Product Discovery & Customer Research"
+    path: skills/discovery/assumption-mapper/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: survey-designer
+    title: "Survey Designer"
+    category: discovery
+    category_title: "Product Discovery & Customer Research"
+    path: skills/discovery/survey-designer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: research-insight-prioritizer
+    title: "Research Insight Prioritizer"
+    category: discovery
+    category_title: "Product Discovery & Customer Research"
+    path: skills/discovery/research-insight-prioritizer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: market-research-planner
+    title: "Market Research Planner"
+    category: strategy
+    category_title: "Product Strategy & Market Intelligence"
+    path: skills/strategy/market-research-planner/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: tam-sam-som-estimator
+    title: "TAM/SAM/SOM Estimator"
+    category: strategy
+    category_title: "Product Strategy & Market Intelligence"
+    path: skills/strategy/tam-sam-som-estimator/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: competitor-feature-matrix
+    title: "Competitor Feature Matrix"
+    category: strategy
+    category_title: "Product Strategy & Market Intelligence"
+    path: skills/strategy/competitor-feature-matrix/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: competitive-positioning-analyzer
+    title: "Competitive Positioning Analyzer"
+    category: strategy
+    category_title: "Product Strategy & Market Intelligence"
+    path: skills/strategy/competitive-positioning-analyzer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: icp-and-segmentation-builder
+    title: "ICP And Segmentation Builder"
+    category: strategy
+    category_title: "Product Strategy & Market Intelligence"
+    path: skills/strategy/icp-and-segmentation-builder/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: value-proposition-designer
+    title: "Value Proposition Designer"
+    category: strategy
+    category_title: "Product Strategy & Market Intelligence"
+    path: skills/strategy/value-proposition-designer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: business-model-canvas-builder
+    title: "Business Model Canvas Builder"
+    category: strategy
+    category_title: "Product Strategy & Market Intelligence"
+    path: skills/strategy/business-model-canvas-builder/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: product-vision-builder
+    title: "Product Vision Builder"
+    category: strategy
+    category_title: "Product Strategy & Market Intelligence"
+    path: skills/strategy/product-vision-builder/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: strategic-options-analyzer
+    title: "Strategic Options Analyzer"
+    category: strategy
+    category_title: "Product Strategy & Market Intelligence"
+    path: skills/strategy/strategic-options-analyzer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: strategy-assumption-reviewer
+    title: "Strategy Assumption Reviewer"
+    category: strategy
+    category_title: "Product Strategy & Market Intelligence"
+    path: skills/strategy/strategy-assumption-reviewer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: product-portfolio-prioritizer
+    title: "Product Portfolio Prioritizer"
+    category: strategy
+    category_title: "Product Strategy & Market Intelligence"
+    path: skills/strategy/product-portfolio-prioritizer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: build-buy-partner-analyzer
+    title: "Build Buy Partner Analyzer"
+    category: strategy
+    category_title: "Product Strategy & Market Intelligence"
+    path: skills/strategy/build-buy-partner-analyzer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: feature-prioritizer
+    title: "Feature Prioritizer"
+    category: execution
+    category_title: "Prioritization, Roadmaps & Execution"
+    path: skills/execution/feature-prioritizer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: rice-prioritization
+    title: "RICE Prioritization"
+    category: execution
+    category_title: "Prioritization, Roadmaps & Execution"
+    path: skills/execution/rice-prioritization/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: roadmap-builder
+    title: "Roadmap Builder"
+    category: execution
+    category_title: "Prioritization, Roadmaps & Execution"
+    path: skills/execution/roadmap-builder/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: roadmap-challenge-reviewer
+    title: "Roadmap Challenge Reviewer"
+    category: execution
+    category_title: "Prioritization, Roadmaps & Execution"
+    path: skills/execution/roadmap-challenge-reviewer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: okrs-and-krs-builder
+    title: "OKRs and KRs Builder"
+    category: execution
+    category_title: "Prioritization, Roadmaps & Execution"
+    path: skills/execution/okrs-and-krs-builder/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: dependency-mapper
+    title: "Dependency Mapper"
+    category: execution
+    category_title: "Prioritization, Roadmaps & Execution"
+    path: skills/execution/dependency-mapper/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: delivery-risk-analyzer
+    title: "Delivery Risk Analyzer"
+    category: execution
+    category_title: "Prioritization, Roadmaps & Execution"
+    path: skills/execution/delivery-risk-analyzer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: sprint-planning-assistant
+    title: "Sprint Planning Assistant"
+    category: execution
+    category_title: "Prioritization, Roadmaps & Execution"
+    path: skills/execution/sprint-planning-assistant/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: backlog-health-reviewer
+    title: "Backlog Health Reviewer"
+    category: execution
+    category_title: "Prioritization, Roadmaps & Execution"
+    path: skills/execution/backlog-health-reviewer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: stakeholder-update-writer
+    title: "Stakeholder Update Writer"
+    category: execution
+    category_title: "Prioritization, Roadmaps & Execution"
+    path: skills/execution/stakeholder-update-writer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: decision-memo-writer
+    title: "Decision Memo Writer"
+    category: execution
+    category_title: "Prioritization, Roadmaps & Execution"
+    path: skills/execution/decision-memo-writer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: meeting-decision-extractor
+    title: "Meeting Decision Extractor"
+    category: execution
+    category_title: "Prioritization, Roadmaps & Execution"
+    path: skills/execution/meeting-decision-extractor/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: release-notes-writer
+    title: "Release Notes Writer"
+    category: execution
+    category_title: "Prioritization, Roadmaps & Execution"
+    path: skills/execution/release-notes-writer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: post-launch-reviewer
+    title: "Post Launch Reviewer"
+    category: execution
+    category_title: "Prioritization, Roadmaps & Execution"
+    path: skills/execution/post-launch-reviewer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: north-star-metric-builder
+    title: "North Star Metric Builder"
+    category: analytics
+    category_title: "Product Analytics, Experimentation & Growth"
+    path: skills/analytics/north-star-metric-builder/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: metric-tree-builder
+    title: "Metric Tree Builder"
+    category: analytics
+    category_title: "Product Analytics, Experimentation & Growth"
+    path: skills/analytics/metric-tree-builder/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: event-taxonomy-designer
+    title: "Event Taxonomy Designer"
+    category: analytics
+    category_title: "Product Analytics, Experimentation & Growth"
+    path: skills/analytics/event-taxonomy-designer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: analytics-instrumentation-planner
+    title: "Analytics Instrumentation Planner"
+    category: analytics
+    category_title: "Product Analytics, Experimentation & Growth"
+    path: skills/analytics/analytics-instrumentation-planner/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: funnel-diagnostic
+    title: "Funnel Diagnostic"
+    category: analytics
+    category_title: "Product Analytics, Experimentation & Growth"
+    path: skills/analytics/funnel-diagnostic/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: cohort-retention-analyzer
+    title: "Cohort Retention Analyzer"
+    category: analytics
+    category_title: "Product Analytics, Experimentation & Growth"
+    path: skills/analytics/cohort-retention-analyzer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: churn-diagnostic
+    title: "Churn Diagnostic"
+    category: analytics
+    category_title: "Product Analytics, Experimentation & Growth"
+    path: skills/analytics/churn-diagnostic/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: activation-analysis
+    title: "Activation Analysis"
+    category: analytics
+    category_title: "Product Analytics, Experimentation & Growth"
+    path: skills/analytics/activation-analysis/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: sql-for-product-analytics
+    title: "SQL For Product Analytics"
+    category: analytics
+    category_title: "Product Analytics, Experimentation & Growth"
+    path: skills/analytics/sql-for-product-analytics/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: dashboard-requirements-writer
+    title: "Dashboard Requirements Writer"
+    category: analytics
+    category_title: "Product Analytics, Experimentation & Growth"
+    path: skills/analytics/dashboard-requirements-writer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: experiment-design-reviewer
+    title: "Experiment Design Reviewer"
+    category: analytics
+    category_title: "Product Analytics, Experimentation & Growth"
+    path: skills/analytics/experiment-design-reviewer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: ab-test-results-interpreter
+    title: "A/B Test Results Interpreter"
+    category: analytics
+    category_title: "Product Analytics, Experimentation & Growth"
+    path: skills/analytics/ab-test-results-interpreter/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: growth-opportunity-diagnostic
+    title: "Growth Opportunity Diagnostic"
+    category: analytics
+    category_title: "Product Analytics, Experimentation & Growth"
+    path: skills/analytics/growth-opportunity-diagnostic/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: product-metric-anomaly-investigator
+    title: "Product Metric Anomaly Investigator"
+    category: analytics
+    category_title: "Product Analytics, Experimentation & Growth"
+    path: skills/analytics/product-metric-anomaly-investigator/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: usability-test-planner
+    title: "Usability Test Planner"
+    category: design
+    category_title: "UX, Design & Product Quality"
+    path: skills/design/usability-test-planner/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: usability-findings-synthesizer
+    title: "Usability Findings Synthesizer"
+    category: design
+    category_title: "UX, Design & Product Quality"
+    path: skills/design/usability-findings-synthesizer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: heuristic-ux-auditor
+    title: "Heuristic UX Auditor"
+    category: design
+    category_title: "UX, Design & Product Quality"
+    path: skills/design/heuristic-ux-auditor/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: accessibility-reviewer
+    title: "Accessibility Reviewer"
+    category: design
+    category_title: "UX, Design & Product Quality"
+    path: skills/design/accessibility-reviewer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: onboarding-flow-reviewer
+    title: "Onboarding Flow Reviewer"
+    category: design
+    category_title: "UX, Design & Product Quality"
+    path: skills/design/onboarding-flow-reviewer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: information-architecture-reviewer
+    title: "Information Architecture Reviewer"
+    category: design
+    category_title: "UX, Design & Product Quality"
+    path: skills/design/information-architecture-reviewer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: empty-error-loading-state-reviewer
+    title: "Empty Error Loading State Reviewer"
+    category: design
+    category_title: "UX, Design & Product Quality"
+    path: skills/design/empty-error-loading-state-reviewer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: mobile-experience-reviewer
+    title: "Mobile Experience Reviewer"
+    category: design
+    category_title: "UX, Design & Product Quality"
+    path: skills/design/mobile-experience-reviewer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: design-system-consistency-reviewer
+    title: "Design System Consistency Reviewer"
+    category: design
+    category_title: "UX, Design & Product Quality"
+    path: skills/design/design-system-consistency-reviewer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: product-copy-reviewer
+    title: "Product Copy Reviewer"
+    category: design
+    category_title: "UX, Design & Product Quality"
+    path: skills/design/product-copy-reviewer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: feature-acceptance-reviewer
+    title: "Feature Acceptance Reviewer"
+    category: design
+    category_title: "UX, Design & Product Quality"
+    path: skills/design/feature-acceptance-reviewer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: pre-release-product-auditor
+    title: "Pre Release Product Auditor"
+    category: design
+    category_title: "UX, Design & Product Quality"
+    path: skills/design/pre-release-product-auditor/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: ai-opportunity-assessor
+    title: "AI Opportunity Assessor"
+    category: ai-product
+    category_title: "AI Product Management"
+    path: skills/ai-product/ai-opportunity-assessor/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: ai-vs-rules-vs-human-decision-maker
+    title: "AI Vs Rules Vs Human Decision Maker"
+    category: ai-product
+    category_title: "AI Product Management"
+    path: skills/ai-product/ai-vs-rules-vs-human-decision-maker/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: ai-product-requirements-writer
+    title: "AI Product Requirements Writer"
+    category: ai-product
+    category_title: "AI Product Management"
+    path: skills/ai-product/ai-product-requirements-writer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: llm-use-case-risk-assessor
+    title: "LLM Use Case Risk Assessor"
+    category: ai-product
+    category_title: "AI Product Management"
+    path: skills/ai-product/llm-use-case-risk-assessor/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: ai-product-feasibility-reviewer
+    title: "AI Product Feasibility Reviewer"
+    category: ai-product
+    category_title: "AI Product Management"
+    path: skills/ai-product/ai-product-feasibility-reviewer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: llm-evaluation-planner
+    title: "LLM Evaluation Planner"
+    category: ai-product
+    category_title: "AI Product Management"
+    path: skills/ai-product/llm-evaluation-planner/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: golden-dataset-builder
+    title: "Golden Dataset Builder"
+    category: ai-product
+    category_title: "AI Product Management"
+    path: skills/ai-product/golden-dataset-builder/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: llm-evaluation-rubric-builder
+    title: "LLM Evaluation Rubric Builder"
+    category: ai-product
+    category_title: "AI Product Management"
+    path: skills/ai-product/llm-evaluation-rubric-builder/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: prompt-regression-test-planner
+    title: "Prompt Regression Test Planner"
+    category: ai-product
+    category_title: "AI Product Management"
+    path: skills/ai-product/prompt-regression-test-planner/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: hallucination-risk-reviewer
+    title: "Hallucination Risk Reviewer"
+    category: ai-product
+    category_title: "AI Product Management"
+    path: skills/ai-product/hallucination-risk-reviewer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: rag-retrieval-quality-reviewer
+    title: "RAG Retrieval Quality Reviewer"
+    category: ai-product
+    category_title: "AI Product Management"
+    path: skills/ai-product/rag-retrieval-quality-reviewer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: ai-quality-error-taxonomy-builder
+    title: "AI Quality Error Taxonomy Builder"
+    category: ai-product
+    category_title: "AI Product Management"
+    path: skills/ai-product/ai-quality-error-taxonomy-builder/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: model-selection-tradeoff-analyzer
+    title: "Model Selection Tradeoff Analyzer"
+    category: ai-product
+    category_title: "AI Product Management"
+    path: skills/ai-product/model-selection-tradeoff-analyzer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: rag-product-spec-builder
+    title: "RAG Product Spec Builder"
+    category: ai-product
+    category_title: "AI Product Management"
+    path: skills/ai-product/rag-product-spec-builder/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: agent-workflow-designer
+    title: "Agent Workflow Designer"
+    category: ai-product
+    category_title: "AI Product Management"
+    path: skills/ai-product/agent-workflow-designer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: tool-calling-requirements-designer
+    title: "Tool Calling Requirements Designer"
+    category: ai-product
+    category_title: "AI Product Management"
+    path: skills/ai-product/tool-calling-requirements-designer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: ai-human-handoff-designer
+    title: "AI Human Handoff Designer"
+    category: ai-product
+    category_title: "AI Product Management"
+    path: skills/ai-product/ai-human-handoff-designer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: ai-latency-cost-optimizer
+    title: "AI Latency Cost Optimizer"
+    category: ai-product
+    category_title: "AI Product Management"
+    path: skills/ai-product/ai-latency-cost-optimizer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: ai-observability-planner
+    title: "AI Observability Planner"
+    category: ai-product
+    category_title: "AI Product Management"
+    path: skills/ai-product/ai-observability-planner/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: ai-incident-reviewer
+    title: "AI Incident Reviewer"
+    category: ai-product
+    category_title: "AI Product Management"
+    path: skills/ai-product/ai-incident-reviewer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: responsible-ai-reviewer
+    title: "Responsible AI Reviewer"
+    category: ai-product
+    category_title: "AI Product Management"
+    path: skills/ai-product/responsible-ai-reviewer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: ai-feature-launch-reviewer
+    title: "AI Feature Launch Reviewer"
+    category: ai-product
+    category_title: "AI Product Management"
+    path: skills/ai-product/ai-feature-launch-reviewer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: idea-to-prototype-planner
+    title: "Idea To Prototype Planner"
+    category: product-builder
+    category_title: "AI Product Builder & Technical PM"
+    path: skills/product-builder/idea-to-prototype-planner/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: prototype-requirements-writer
+    title: "Prototype Requirements Writer"
+    category: product-builder
+    category_title: "AI Product Builder & Technical PM"
+    path: skills/product-builder/prototype-requirements-writer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: ai-app-builder-prompt-generator
+    title: "AI App Builder Prompt Generator"
+    category: product-builder
+    category_title: "AI Product Builder & Technical PM"
+    path: skills/product-builder/ai-app-builder-prompt-generator/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: technical-feasibility-reviewer
+    title: "Technical Feasibility Reviewer"
+    category: product-builder
+    category_title: "AI Product Builder & Technical PM"
+    path: skills/product-builder/technical-feasibility-reviewer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: api-integration-planner
+    title: "API Integration Planner"
+    category: product-builder
+    category_title: "AI Product Builder & Technical PM"
+    path: skills/product-builder/api-integration-planner/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: database-schema-reviewer
+    title: "Database Schema Reviewer"
+    category: product-builder
+    category_title: "AI Product Builder & Technical PM"
+    path: skills/product-builder/database-schema-reviewer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: frontend-ux-code-reviewer
+    title: "Frontend UX Code Reviewer"
+    category: product-builder
+    category_title: "AI Product Builder & Technical PM"
+    path: skills/product-builder/frontend-ux-code-reviewer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: backend-architecture-reviewer
+    title: "Backend Architecture Reviewer"
+    category: product-builder
+    category_title: "AI Product Builder & Technical PM"
+    path: skills/product-builder/backend-architecture-reviewer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: security-and-privacy-reviewer
+    title: "Security And Privacy Reviewer"
+    category: product-builder
+    category_title: "AI Product Builder & Technical PM"
+    path: skills/product-builder/security-and-privacy-reviewer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: code-change-impact-analyzer
+    title: "Code Change Impact Analyzer"
+    category: product-builder
+    category_title: "AI Product Builder & Technical PM"
+    path: skills/product-builder/code-change-impact-analyzer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: automated-test-planner
+    title: "Automated Test Planner"
+    category: product-builder
+    category_title: "AI Product Builder & Technical PM"
+    path: skills/product-builder/automated-test-planner/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: deployment-readiness-reviewer
+    title: "Deployment Readiness Reviewer"
+    category: product-builder
+    category_title: "AI Product Builder & Technical PM"
+    path: skills/product-builder/deployment-readiness-reviewer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: prototype-usability-test-planner
+    title: "Prototype Usability Test Planner"
+    category: product-builder
+    category_title: "AI Product Builder & Technical PM"
+    path: skills/product-builder/prototype-usability-test-planner/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: prototype-to-production-gap-analyzer
+    title: "Prototype To Production Gap Analyzer"
+    category: product-builder
+    category_title: "AI Product Builder & Technical PM"
+    path: skills/product-builder/prototype-to-production-gap-analyzer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: executive-product-brief-writer
+    title: "Executive Product Brief Writer"
+    category: leadership
+    category_title: "Product Leadership & Communication"
+    path: skills/leadership/executive-product-brief-writer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: stakeholder-alignment-planner
+    title: "Stakeholder Alignment Planner"
+    category: leadership
+    category_title: "Product Leadership & Communication"
+    path: skills/leadership/stakeholder-alignment-planner/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: product-decision-challenger
+    title: "Product Decision Challenger"
+    category: leadership
+    category_title: "Product Leadership & Communication"
+    path: skills/leadership/product-decision-challenger/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: tradeoff-analysis-builder
+    title: "Tradeoff Analysis Builder"
+    category: leadership
+    category_title: "Product Leadership & Communication"
+    path: skills/leadership/tradeoff-analysis-builder/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: conflict-resolution-preparation
+    title: "Conflict Resolution Preparation"
+    category: leadership
+    category_title: "Product Leadership & Communication"
+    path: skills/leadership/conflict-resolution-preparation/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: cross-functional-dependency-reviewer
+    title: "Cross Functional Dependency Reviewer"
+    category: leadership
+    category_title: "Product Leadership & Communication"
+    path: skills/leadership/cross-functional-dependency-reviewer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: product-team-retrospective
+    title: "Product Team Retrospective"
+    category: leadership
+    category_title: "Product Leadership & Communication"
+    path: skills/leadership/product-team-retrospective/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: product-review-facilitator
+    title: "Product Review Facilitator"
+    category: leadership
+    category_title: "Product Leadership & Communication"
+    path: skills/leadership/product-review-facilitator/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: product-org-maturity-assessor
+    title: "Product Org Maturity Assessor"
+    category: leadership
+    category_title: "Product Leadership & Communication"
+    path: skills/leadership/product-org-maturity-assessor/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: product-leadership-coaching-guide
+    title: "Product Leadership Coaching Guide"
+    category: leadership
+    category_title: "Product Leadership & Communication"
+    path: skills/leadership/product-leadership-coaching-guide/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: pm-skill-gap-assessor
+    title: "PM Skill Gap Assessor"
+    category: career
+    category_title: "PM Career & Learning"
+    path: skills/career/pm-skill-gap-assessor/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: pm-learning-roadmap-builder
+    title: "PM Learning Roadmap Builder"
+    category: career
+    category_title: "PM Career & Learning"
+    path: skills/career/pm-learning-roadmap-builder/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: product-case-interview-coach
+    title: "Product Case Interview Coach"
+    category: career
+    category_title: "PM Career & Learning"
+    path: skills/career/product-case-interview-coach/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: product-sense-interview-practice
+    title: "Product Sense Interview Practice"
+    category: career
+    category_title: "PM Career & Learning"
+    path: skills/career/product-sense-interview-practice/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: metrics-interview-coach
+    title: "Metrics Interview Coach"
+    category: career
+    category_title: "PM Career & Learning"
+    path: skills/career/metrics-interview-coach/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: product-strategy-interview-coach
+    title: "Product Strategy Interview Coach"
+    category: career
+    category_title: "PM Career & Learning"
+    path: skills/career/product-strategy-interview-coach/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: resume-impact-bullet-reviewer
+    title: "Resume Impact Bullet Reviewer"
+    category: career
+    category_title: "PM Career & Learning"
+    path: skills/career/resume-impact-bullet-reviewer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: pm-portfolio-project-planner
+    title: "PM Portfolio Project Planner"
+    category: career
+    category_title: "PM Career & Learning"
+    path: skills/career/pm-portfolio-project-planner/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: portfolio-case-study-reviewer
+    title: "Portfolio Case Study Reviewer"
+    category: career
+    category_title: "PM Career & Learning"
+    path: skills/career/portfolio-case-study-reviewer/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: pm-achievement-quantifier
+    title: "PM Achievement Quantifier"
+    category: career
+    category_title: "PM Career & Learning"
+    path: skills/career/pm-achievement-quantifier/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: mock-interview-evaluator
+    title: "Mock Interview Evaluator"
+    category: career
+    category_title: "PM Career & Learning"
+    path: skills/career/mock-interview-evaluator/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
+  - id: pm-career-transition-planner
+    title: "PM Career Transition Planner"
+    category: career
+    category_title: "PM Career & Learning"
+    path: skills/career/pm-career-transition-planner/SKILL.md
+    format: SKILL.md
+    asset_type: skill
+    version: "1.0.0"
+    status: active
+    portability: portable
+    review_status: standardized
